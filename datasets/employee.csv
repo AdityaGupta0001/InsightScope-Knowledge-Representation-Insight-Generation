@@ -1,0 +1,142 @@
+EmpId,FirstName,LastName,JobTitle,BirthDate,MaritalStatus,Gender,SalariedFlag,HireDate,VacationHours,SickLeaveHours
+150,Michael,Vanderhyde,Production Technician - WC30,9/18/1982,M,M,0,2/26/2009,35,37
+151,Rostislav,Shabalin,Production Technician - WC30,9/13/1977,M,M,0,2/19/2009,40,40
+152,Yuhong,Li,Production Supervisor - WC20,4/6/1977,M,M,0,2/1/2009,41,40
+153,Hanying,Feng,Production Technician - WC20,10/16/1974,S,M,0,12/16/2008,15,27
+154,Raymond,Sam,Production Technician - WC20,3/2/1967,M,M,0,12/23/2008,10,25
+155,Fadi,Fakhouri,Production Technician - WC20,2/15/1989,S,M,0,1/4/2009,16,28
+156,Lane,Sacksteder,Production Technician - WC20,9/23/1974,M,M,0,1/11/2009,11,25
+157,Linda,Randall,Production Technician - WC20,10/5/1977,S,F,0,2/3/2009,12,26
+158,Shelley,Dyck,Production Technician - WC20,12/8/1986,S,F,0,3/7/2009,14,27
+159,Terrence,Earls,Production Technician - WC20,12/8/1984,S,M,0,2/16/2009,13,26
+160,Jeff,Hay,Production Supervisor - WC45,1/15/1977,M,M,0,1/21/2009,74,57
+161,Kirk,Koenigsbauer,Production Technician - WC45,2/6/1985,S,M,0,12/15/2008,74,57
+162,Laura,Steele,Production Technician - WC45,12/25/1980,S,F,0,1/3/2009,75,57
+163,Alex,Nayberg,Production Technician - WC45,4/13/1990,M,M,0,2/8/2009,77,58
+164,Andrew,Cencini,Production Technician - WC45,9/24/1988,S,M,0,3/6/2009,73,56
+165,Chris,Preston,Production Technician - WC45,12/16/1988,M,M,0,1/22/2009,76,58
+166,Jack,Richins,Production Supervisor - WC30,6/22/1983,S,M,0,2/21/2009,68,54
+167,David,Johnson,Production Technician - WC30,11/2/1979,S,M,0,12/2/2008,25,32
+168,Garrett,Young,Production Technician - WC30,8/25/1984,S,M,0,12/7/2008,34,37
+169,Susan,Metters,Production Technician - WC30,4/2/1983,S,F,0,12/14/2008,31,35
+170,George,Li,Production Technician - WC30,4/16/1977,M,M,0,12/21/2008,26,33
+171,David,Yalovsky,Production Technician - WC30,8/3/1981,S,M,0,1/2/2009,32,36
+172,Marc,Ingle,Production Technician - WC30,10/24/1986,M,M,0,1/16/2009,22,31
+173,Eugene,Zabokritski,Production Technician - WC30,7/15/1987,S,M,0,1/21/2009,33,36
+174,Benjamin,Martin,Production Technician - WC30,1/5/1986,S,M,0,1/27/2009,28,34
+175,Reed,Koch,Production Technician - WC30,1/8/1989,M,M,0,2/2/2009,23,31
+176,David,Lawrence,Production Technician - WC30,9/23/1985,M,M,0,2/14/2009,29,34
+177,Russell,King,Production Technician - WC30,2/11/1982,M,M,0,2/21/2009,24,32
+178,John,Frum,Production Technician - WC30,3/24/1982,S,M,0,3/3/2009,27,33
+179,Jan,Miksovsky,Production Technician - WC30,11/15/1974,S,M,0,3/5/2009,30,35
+180,Katie,McAskill-White,Production Supervisor - WC20,11/18/1984,S,F,0,2/20/2009,42,41
+181,Michael,Hines,Production Technician - WC20,11/17/1984,S,M,0,12/9/2008,20,30
+182,Nitin,Mirchandani,Production Technician - WC20,12/1/1986,S,M,0,12/28/2008,21,30
+183,Barbara,Decker,Production Technician - WC20,7/2/1979,M,F,0,1/22/2009,17,28
+184,John,Chen,Production Technician - WC20,4/5/1986,M,M,0,2/9/2009,18,29
+185,Stefen,Hesse,Production Technician - WC20,12/21/1975,S,M,0,2/28/2009,19,29
+186,Shane,Kim,Production Supervisor - WC45,5/24/1990,S,M,0,2/8/2009,75,57
+187,Yvonne,McKay,Production Technician - WC45,4/15/1989,M,F,0,12/9/2008,79,59
+188,Douglas,Hite,Production Technician - WC45,11/24/1985,M,M,0,12/27/2008,80,60
+189,Janeth,Esteves,Production Technician - WC45,7/24/1972,S,F,0,1/15/2009,81,60
+190,Robert,Rounthwaite,Production Technician - WC45,2/28/1985,S,M,0,2/2/2009,82,61
+191,Lionel,Penuchot,Production Technician - WC45,3/14/1988,S,M,0,2/26/2009,78,59
+192,Brenda,Diaz,Production Supervisor - WC40,2/28/1983,M,F,0,3/5/2009,71,55
+193,Alejandro,McGuel,Production Technician - WC40,12/5/1988,S,M,0,12/6/2008,52,46
+194,Fred,Northup,Production Technician - WC40,6/25/1989,S,M,0,12/12/2008,47,43
+195,Kevin,Liu,Production Technician - WC40,12/25/1985,S,M,0,12/17/2008,58,49
+196,Shammi,Mohamed,Production Technician - WC40,10/4/1980,M,M,0,12/24/2008,53,46
+197,Rajesh,Patel,Production Technician - WC40,10/4/1977,M,M,0,12/31/2008,48,44
+198,Lorraine,Nay,Production Technician - WC40,11/26/1988,M,F,0,1/4/2009,49,44
+199,Paula,Nartker,Production Technician - WC40,2/10/1987,M,F,0,1/12/2009,54,47
+200,Frank,Lee,Production Technician - WC40,9/6/1987,M,M,0,1/17/2009,56,48
+201,Brian,Lloyd,Production Technician - WC40,2/10/1977,S,M,0,1/29/2009,55,47
+202,Tawana,Nusbaum,Production Technician - WC40,11/10/1989,S,M,0,2/5/2009,50,45
+203,Ken,Myer,Production Technician - WC40,5/28/1981,M,M,0,2/24/2009,51,45
+204,Gabe,Mares,Production Technician - WC40,5/10/1988,M,M,0,3/8/2009,57,48
+205,Lori,Kane,Production Supervisor - WC45,7/18/1980,S,F,0,2/26/2009,76,58
+206,Stuart,Munson,Production Technician - WC45,9/13/1962,S,M,0,12/2/2008,84,62
+207,Greg,Alderson,Production Technician - WC45,10/18/1970,S,M,0,12/2/2008,85,62
+208,Scott,Gode,Production Technician - WC45,2/10/1987,M,M,0,1/8/2009,86,63
+209,Kathie,Flood,Production Technician - WC45,11/1/1990,M,F,0,1/27/2009,87,63
+210,Belinda,Newman,Production Technician - WC45,9/17/1969,S,F,0,2/20/2009,83,61
+211,Hazem,Abolrous,Quality Assurance Manager,10/26/1977,S,M,1,2/28/2009,80,60
+212,Peng,Wu,Quality Assurance Supervisor,3/18/1976,M,M,1,12/9/2008,81,60
+213,Sootha,Charncherngkha,Quality Assurance Technician,12/5/1966,M,M,0,2/23/2010,85,62
+214,Andreas,Berglund,Quality Assurance Technician,3/28/1989,M,M,0,2/2/2009,84,62
+215,Mark,Harrington,Quality Assurance Technician,4/30/1986,S,M,0,1/15/2009,83,61
+216,Sean,Alexander,Quality Assurance Technician,3/6/1976,S,M,0,12/28/2008,82,61
+217,Zainal,Arifin,Document Control Manager,1/30/1976,M,M,0,1/4/2009,77,58
+218,Tengiz,Kharatishvili,Control Specialist,4/28/1990,S,M,0,12/16/2008,76,58
+219,Sean,Chai,Document Control Assistant,3/12/1987,S,M,0,1/22/2009,78,59
+220,Karen,Berge,Document Control Assistant,12/25/1975,M,F,0,2/9/2009,79,59
+221,Chris,Norred,Control Specialist,5/26/1987,M,M,0,3/6/2009,75,57
+222,A. Scott,Wright,Master Scheduler,9/17/1968,S,M,0,12/12/2008,44,42
+223,Sairaj,Uddin,Scheduling Assistant,12/22/1987,M,M,0,1/26/2009,46,43
+224,William,Vong,Scheduling Assistant,11/6/1981,M,M,0,1/7/2009,45,42
+225,Alan,Brewer,Scheduling Assistant,3/29/1984,M,M,0,2/13/2009,47,43
+226,Brian,LaMee,Scheduling Assistant,8/11/1984,M,M,0,3/3/2009,48,44
+227,Gary,Altman,Facilities Manager,2/18/1971,M,M,1,12/2/2009,86,63
+228,Christian,Kleinerman,Maintenance Supervisor,1/18/1976,M,M,1,12/14/2008,92,66
+229,Lori,Penor,Janitor,7/31/1970,M,F,0,2/16/2010,90,65
+230,Stuart,Macrae,Janitor,12/17/1971,M,M,0,3/5/2010,88,64
+231,Jo,Berry,Janitor,4/24/1954,M,F,0,3/7/2010,91,65
+232,Pat,Coleman,Janitor,12/3/1970,S,M,0,1/27/2010,89,64
+233,Magnus,Hedlund,Facilities Administrative Assistant,8/27/1971,M,M,0,12/21/2009,87,63
+234,Laura,Norman,Chief Financial Officer,1/6/1976,M,F,1,1/31/2009,0,20
+235,Paula,Barreto de Mattos,Human Resources Manager,2/11/1976,M,F,1,12/6/2008,54,47
+236,Grant,Culbertson,Human Resources Administrative Assistant,4/16/1976,S,M,0,2/25/2009,53,46
+237,Hao,Chen,Human Resources Administrative Assistant,4/17/1977,S,M,0,2/6/2009,52,46
+238,Vidur,Luthra,Recruiter,8/1/1984,S,M,0,1/1/2009,50,45
+239,Mindy,Martin,Benefits Specialist,11/20/1984,M,F,0,12/25/2008,51,45
+240,Willis,Johnson,Recruiter,7/18/1978,S,M,0,12/13/2008,49,44
+241,David,Liu,Accounts Manager,7/8/1983,M,M,1,1/30/2009,57,48
+242,Deborah,Poe,Accounts Receivable Specialist,3/6/1976,M,F,0,12/18/2008,60,50
+243,Candy,Spoon,Accounts Receivable Specialist,2/23/1976,S,F,0,1/6/2009,61,50
+244,Bryan,Walton,Accounts Receivable Specialist,9/20/1984,S,M,0,1/24/2009,62,51
+245,Barbara,Moreland,Accountant,1/4/1976,M,F,1,2/18/2009,58,49
+246,Dragan,Tomic,Accounts Payable Specialist,2/14/1977,M,M,0,2/11/2009,63,51
+247,Janet,Sheperdigian,Accounts Payable Specialist,3/9/1979,M,F,0,3/1/2009,64,52
+248,Mike,Seamans,Accountant,7/1/1979,S,M,1,3/8/2009,59,49
+249,Wendy,Kahn,Finance Manager,10/11/1984,S,F,1,12/25/2008,55,47
+250,Sheela,Word,Purchasing Manager,2/10/1978,S,F,1,2/25/2011,49,44
+251,Mikael,Sandberg,Buyer,8/17/1984,S,M,0,2/10/2009,59,49
+252,Arvind,Rao,Buyer,8/21/1974,M,M,0,2/28/2009,60,50
+253,Linda,Meisner,Buyer,11/30/1970,M,F,0,12/17/2009,56,48
+254,Fukiko,Ogisu,Buyer,11/24/1970,M,M,0,1/4/2010,57,48
+255,Gordon,Hee,Buyer,11/29/1966,M,M,0,1/11/2010,52,46
+256,Frank,Pellow,Buyer,5/12/1952,M,M,0,1/23/2010,58,49
+257,Eric,Kurjan,Buyer,9/17/1972,S,M,0,1/27/2010,54,47
+258,Erin,Hagens,Buyer,1/4/1971,S,F,0,1/31/2010,53,46
+259,Ben,Miller,Buyer,6/3/1973,M,M,0,3/9/2010,55,47
+260,Annette,Hill,Purchasing Assistant,1/29/1978,M,F,0,12/6/2010,50,45
+261,Reinout,Hillmann,Purchasing Assistant,1/17/1978,M,M,0,12/25/2010,51,45
+262,David,Barber,Assistant to the Chief Financial Officer,6/21/1964,S,M,0,1/12/2009,56,48
+263,Jean,Trenary,Information Services Manager,12/13/1975,S,F,1,12/11/2008,65,52
+264,Stephanie,Conroy,Network Manager,3/25/1984,S,F,1,2/4/2009,68,54
+265,Ashvini,Sharma,Network Administrator,3/27/1977,S,M,0,12/4/2008,70,55
+266,Peter,Connelly,Network Administrator,5/28/1980,S,M,0,2/23/2009,69,54
+267,Karen,Berg,Application Specialist,5/19/1978,S,F,1,2/16/2009,74,57
+268,Ramesh,Meyyappan,Application Specialist,3/13/1988,S,M,1,2/3/2009,73,56
+269,Dan,Bacon,Application Specialist,5/26/1987,M,M,1,1/11/2009,72,56
+270,François,Ajenstat,Database Administrator,5/17/1975,S,M,1,1/17/2009,67,53
+271,Dan,Wilson,Database Administrator,1/6/1976,M,M,1,1/22/2009,66,53
+272,Janaina,Bueno,Application Specialist,1/30/1985,M,F,1,12/23/2008,71,55
+273,Brian,Welcker,Vice President of Sales,6/6/1977,S,M,1,2/15/2011,10,25
+274,Stephen,Jiang,North American Sales Manager,10/17/1951,M,M,1,1/4/2011,14,27
+275,Michael,Blythe,Sales Representative,12/25/1968,S,M,1,5/31/2011,38,39
+276,Linda,Mitchell,Sales Representative,2/27/1980,M,F,1,5/31/2011,27,33
+277,Jillian,Carson,Sales Representative,8/29/1962,S,F,1,5/31/2011,24,32
+278,Garrett,Vargas,Sales Representative,2/4/1975,M,M,1,5/31/2011,33,36
+279,Tsvi,Reiter,Sales Representative,1/18/1974,M,M,1,5/31/2011,29,34
+280,Pamela,Ansman-Wolfe,Sales Representative,12/6/1974,S,F,1,5/31/2011,22,31
+281,Shu,Ito,Sales Representative,3/9/1968,M,M,1,5/31/2011,26,33
+282,José,Saraiva,Sales Representative,12/11/1963,M,M,1,5/31/2011,31,35
+283,David,Campbell,Sales Representative,2/11/1974,S,M,1,5/31/2011,23,31
+284,Tete,Mensa-Annan,Sales Representative,1/5/1978,M,M,1,9/30/2012,39,39
+285,Syed,Abbas,Pacific Sales Manager,1/11/1975,M,M,1,3/14/2013,20,30
+286,Lynn,Tsoflias,Sales Representative,2/14/1977,S,F,1,5/30/2013,36,38
+287,Amy,Alberts,European Sales Manager,9/20/1957,M,F,1,4/16/2012,21,30
+288,Rachel,Valdez,Sales Representative,7/9/1975,S,F,1,5/30/2013,35,37
+289,Jae,Pak,Sales Representative,3/17/1968,M,F,1,5/30/2012,37,38
+290,Ranjit,Varkey Chudukatil,Sales Representative,9/30/1975,S,M,1,5/30/2012,34,37
